@@ -1,5 +1,5 @@
 # CTR_Prediction
-Predict whether a user will click on an ad or not
+Predict using Classification Algorithm whether a user will click on an ad or not
 
 Tasks:
 1. Perform missing value and outlier treatment, if needed, in the data set you received.
